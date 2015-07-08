@@ -1,0 +1,3 @@
+#define CONFIG_9P
+#define CONFIG_NET_9P
+#define CONFIG_NET_9P_VIRTIO
